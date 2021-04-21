@@ -1,48 +1,48 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: mainthesis.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: plain.bst
-Reallocating 'name_of_file' (item size: 1) to 5 items.
-Database file #1: M335.bib
-You've used 2 entries,
-            2118 wiz_defined-function locations,
-            506 strings with 4145 characters,
-and the built_in function-call counts, 432 in all, are:
-= -- 36
-> -- 14
-< -- 0
-+ -- 6
-- -- 4
-* -- 16
-:= -- 79
-add.period$ -- 5
-call.type$ -- 2
-change.case$ -- 7
-chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 19
-empty$ -- 45
-format.name$ -- 4
-if$ -- 90
-int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 12
-num.names$ -- 4
-pop$ -- 17
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: apa.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Database file #1: mainbib.bib
+You've used 9 entries,
+            1940 wiz_defined-function locations,
+            543 strings with 5868 characters,
+and the built_in function-call counts, 3904 in all, are:
+= -- 389
+> -- 156
+< -- 3
++ -- 52
+- -- 52
+* -- 381
+:= -- 670
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 71
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 126
+empty$ -- 273
+format.name$ -- 65
+if$ -- 742
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 27
+pop$ -- 50
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 71
 quote$ -- 0
-skip$ -- 14
+skip$ -- 94
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
+substring$ -- 342
+swap$ -- 18
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 54
 warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 20
+while$ -- 36
+width$ -- 0
+write$ -- 119

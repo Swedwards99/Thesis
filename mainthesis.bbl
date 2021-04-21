@@ -1,12 +1,63 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{higham1998handbook}
-N.J. Higham.
-\newblock {\em Handbook of writing for the mathematical sciences}.
-\newblock Society for Industrial Mathematics, 1998.
+\bibitem[\protect\astroncite{Bell and Hellmann}{2019}]{Bell2019}
+Bell, A.~M. and Hellmann, J.~K. (2019).
+\newblock {An Integrative Framework for Understanding the Mechanisms and
+  Multigenerational Consequences of Transgenerational Plasticity}.
+\newblock {\em Annual Review of Ecology, Evolution, and Systematics},
+  50:97--118.
 
-\bibitem{fractalwiki}
-Wikipedia.
-\newblock Fractal, 2012.
+\bibitem[\protect\astroncite{Denver and Middlemis-Maher}{2010}]{Denver2010}
+Denver, R.~J. and Middlemis-Maher, J. (2010).
+\newblock {Lessons from evolution: Developmental plasticity in vertebrates with
+  complex life cycles}.
+\newblock {\em Journal of Developmental Origins of Health and Disease},
+  1(5):282--291.
+
+\bibitem[\protect\astroncite{Hellmann et~al.}{2020}]{Hellmann2020}
+Hellmann, J.~K., Carlson, E.~R., and Bell, A.~M. (2020).
+\newblock {Sex-specific plasticity across generations II: Grandpaternal effects
+  are lineage specific and sex specific}.
+\newblock {\em Journal of Animal Ecology}, 89(12):2800--2812.
+
+\bibitem[\protect\astroncite{Kishida et~al.}{2010}]{Kishida2010}
+Kishida, O., Trussell, G.~C., Mougi, A., and Nishimura, K. (2010).
+\newblock {Evolutionary ecology of inducible morphological plasticity in
+  predator-prey interaction: Toward the practical links with population
+  ecology}.
+\newblock {\em Population Ecology}, 52(1):37--46.
+
+\bibitem[\protect\astroncite{Klemetsen}{2010}]{Klemetsen2010}
+Klemetsen, A. (2010).
+\newblock {The Charr Problem Revisited: Exceptional Phenotypic Plasticity
+  Promotes Ecological Speciation in Postglacial Lakes}.
+\newblock {\em Freshwater Reviews}, 3(1):49--74.
+
+\bibitem[\protect\astroncite{Kristj{\'{a}}nsson
+  et~al.}{2002}]{Kristjansson2002}
+Kristj{\'{a}}nsson, B.~K., Sk{\'{u}}lason, S., and Noakes, D.~L. (2002).
+\newblock {Morphological segregation of Icelandic threespine stickleback
+  (Gasterosteus aculeatus L)}.
+\newblock {\em Biological Journal of the Linnean Society}, 76(2):247--257.
+
+\bibitem[\protect\astroncite{Millet et~al.}{2013}]{Millet2013}
+Millet, A., Kristj{\'{a}}nsson, B.~K., Einarsson, {\'{A}}., and
+  R{\"{a}}s{\"{a}}nen, K. (2013).
+\newblock {Spatial phenotypic and genetic structure of threespine stickleback
+  (Gasterosteus aculeatus) in a heterogeneous natural system, Lake Myvatn,
+  Iceland}.
+\newblock {\em Ecology and Evolution}, 3(10):3219--3232.
+
+\bibitem[\protect\astroncite{Richter-Boix et~al.}{2014}]{Richter-Boix2014}
+Richter-Boix, A., Orizaola, G., and Laurila, A. (2014).
+\newblock {Transgenerational phenotypic plasticity links breeding phenology
+  with offspring life-history}.
+\newblock {\em Ecology}, 95(10):2815--2825.
+
+\bibitem[\protect\astroncite{Shama et~al.}{2014}]{Shama2014}
+Shama, L.~N., Strobel, A., Mark, F.~C., and Wegner, K.~M. (2014).
+\newblock {Transgenerational plasticity in marine sticklebacks: Maternal
+  effects mediate impacts of a warming ocean}.
+\newblock {\em Functional Ecology}, 28(6):1482--1493.
 
 \end{thebibliography}
