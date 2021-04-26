@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.4)  25 APR 2021 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.4)  25 APR 2021 21:16
 entering extended mode
 **./mainthesis.tex
 (mainthesis.tex
@@ -94,7 +94,7 @@ Here is how much of TeX's memory you used:
  17526 multiletter control sequences out of 15000+200000
  541571 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,6n,55p,3756b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,6n,55p,3753b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Spenc\AppData\Local\MiKTe
 X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Spenc/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Spe
@@ -103,7 +103,7 @@ C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr17.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmti12.pfb>
-Output written on mainthesis.pdf (4 pages, 78539 bytes).
+Output written on mainthesis.pdf (4 pages, 78501 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
