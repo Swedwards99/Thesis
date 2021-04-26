@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=latex 2020.11.4)  25 APR 2021 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.4)  25 APR 2021 19:01
 entering extended mode
 **./mainthesis.tex
 (mainthesis.tex
@@ -46,15 +46,10 @@ LaTeX Info: Redefining \cite on input line 694.
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
 ("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
-d-dvips.def"
-File: l3backend-dvips.def 2020-09-24 L3 backend support: dvips
+d-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count184
 \l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count184
-\l__pdf_backend_content_box=\box48
-\l__pdf_backend_model_box=\box49
-\g__pdf_backend_annotation_int=\count185
-\g__pdf_backend_link_int=\count186
-\g__pdf_backend_link_sf_int=\count187
 ) (mainthesis.aux)
 \openout1 = `mainthesis.aux'.
 
@@ -90,14 +85,27 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <6> on input line 16.
 [1
 
-] [2] (mainthesis.bbl [3]) [4] (mainthesis.aux) ) 
+{C:/Users/Spenc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+(mainthesis.bbl [3]) [4] (mainthesis.aux) ) 
 Here is how much of TeX's memory you used:
- 932 strings out of 480237
- 16693 string characters out of 2878648
- 288220 words of memory out of 3000000
- 17538 multiletter control sequences out of 15000+200000
+ 921 strings out of 480236
+ 16135 string characters out of 2878622
+ 285301 words of memory out of 3000000
+ 17526 multiletter control sequences out of 15000+200000
  541571 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,6n,55p,3756b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Spenc\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Spenc/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Spe
+nc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr17.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on mainthesis.pdf (4 pages, 78539 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on mainthesis.dvi (4 pages, 10828 bytes).
