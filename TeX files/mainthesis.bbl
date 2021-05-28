@@ -1,11 +1,30 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{Barber et~al.}{2001}]{Barber2001}
+Barber, I., Arnott, S.~A., Braithwaite, V.~A., Andrew, J., and Huntingford,
+  F.~A. (2001).
+\newblock {Indirect fitness consequences of mate choice in sticklebacks:
+  Offspring of brighter males grow slowly but resist parasitic infections}.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  268(1462):71--76.
+
 \bibitem[\protect\astroncite{Bell and Hellmann}{2019}]{Bell2019}
 Bell, A.~M. and Hellmann, J.~K. (2019).
 \newblock {An Integrative Framework for Understanding the Mechanisms and
   Multigenerational Consequences of Transgenerational Plasticity}.
 \newblock {\em Annual Review of Ecology, Evolution, and Systematics},
   50:97--118.
+
+\bibitem[\protect\astroncite{Bell et~al.}{2016}]{Bell2016}
+Bell, A.~M., McGhee, K.~E., and Stein, L.~R. (2016).
+\newblock {Effects of mothers' and fathers' experience with predation risk on
+  the behavioral development of their offspring in threespined sticklebacks}.
+\newblock {\em Current Opinion in Behavioral Sciences}, 7:28--32.
+
+\bibitem[\protect\astroncite{Bell et~al.}{2018}]{Bell2018}
+Bell, A.~M., Trapp, R., and Keagy, J. (2018).
+\newblock {Parenting behaviour is highly heritable in male stickleback}.
+\newblock {\em Royal Society Open Science}, 5(1).
 
 \bibitem[\protect\astroncite{Denver and Middlemis-Maher}{2010}]{Denver2010}
 Denver, R.~J. and Middlemis-Maher, J. (2010).
@@ -69,6 +88,20 @@ Millet, A., Kristj{\'{a}}nsson, B.~K., Einarsson, {\'{A}}., and
   Iceland}.
 \newblock {\em Ecology and Evolution}, 3(10):3219--3232.
 
+\bibitem[\protect\astroncite{Mommer and Bell}{2014}]{Mommer2014}
+Mommer, B.~C. and Bell, A.~M. (2014).
+\newblock {Maternal Experience with Predation Risk Influences Genome-Wide
+  Embryonic Gene Expression in Threespined Sticklebacks ( Gasterosteus
+  aculeatus )}.
+\newblock 9(6).
+
+\bibitem[\protect\astroncite{Ramler et~al.}{2014}]{Ramler2014}
+Ramler, D., Mitteroecker, P., Shama, L.~N., Wegner, K.~M., and Ahnelt, H.
+  (2014).
+\newblock {Nonlinear effects of temperature on body form and developmental
+  canalization in the threespine stickleback}.
+\newblock {\em Journal of Evolutionary Biology}, 27(3):497--507.
+
 \bibitem[\protect\astroncite{Richter-Boix et~al.}{2014}]{Richter-Boix2014}
 Richter-Boix, A., Orizaola, G., and Laurila, A. (2014).
 \newblock {Transgenerational phenotypic plasticity links breeding phenology
@@ -80,5 +113,10 @@ Shama, L.~N., Strobel, A., Mark, F.~C., and Wegner, K.~M. (2014).
 \newblock {Transgenerational plasticity in marine sticklebacks: Maternal
   effects mediate impacts of a warming ocean}.
 \newblock {\em Functional Ecology}, 28(6):1482--1493.
+
+\bibitem[\protect\astroncite{Stein and Bell}{2014}]{Stein2014}
+Stein, L.~R. and Bell, A.~M. (2014).
+\newblock {Paternal programming in sticklebacks}.
+\newblock {\em Animal Behaviour}, 95:165--171.
 
 \end{thebibliography}

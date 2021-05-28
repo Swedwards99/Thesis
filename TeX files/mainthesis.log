@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.4)  25 APR 2021 19:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=latex 2021.5.25)  27 MAY 2021 10:14
 entering extended mode
 **./mainthesis.tex
 (mainthesis.tex
-LaTeX2e <2020-10-01> patch level 1
-L3 programming layer <2020-10-05> xparse <2020-03-03>
-("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/extsizes\extarticl
-e.cls"
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-07>
+(C:\Users\Spenc\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+(C:\Users\Spenc\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\exscale.sty"
+(C:\Users\Spenc\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
 Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -19,37 +18,43 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
 \big@size=\dimen138
 )
-\c@part=\count175
-\c@section=\count176
-\c@subsection=\count177
-\c@subsubsection=\count178
-\c@paragraph=\count179
-\c@subparagraph=\count180
-\c@figure=\count181
-\c@table=\count182
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen139
-) ("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
-y"
+)
+(C:\Users\Spenc\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+(C:\Users\Spenc\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip49
 \bibsep=\skip50
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count183
-) ("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty"
+\c@NAT@ctr=\count187
+)
+(C:\Users\Spenc\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-("C:\Users\Spenc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
-d-pdftex.def"
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count184
+(C:\Users\Spenc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-dvi
+ps.def
+File: l3backend-dvips.def 2021-05-07 L3 backend support: dvips
 \l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count188
+\l__pdf_backend_content_box=\box48
+\l__pdf_backend_model_box=\box49
+\g__pdf_backend_annotation_int=\count189
+\g__pdf_backend_link_int=\count190
+\g__pdf_backend_link_sf_int=\count191
 ) (mainthesis.aux)
 \openout1 = `mainthesis.aux'.
 
@@ -81,31 +86,42 @@ Package gensymb Warning: Not defining \micro.
 
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 13.
+
+Package natbib Warning: Citation `Danchin2011' on page 1 undefined on input lin
+e 17.
+
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 16.
+(Font)              <6> on input line 22.
+
+Overfull \hbox (6.81532pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 fined mainly by habi-tat type, as well as mor-phol-ogy and be-h
+av-ior (Kristjansson
+ []
+
 [1
 
-{C:/Users/Spenc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-(mainthesis.bbl [3]) [4] (mainthesis.aux) ) 
-Here is how much of TeX's memory you used:
- 921 strings out of 480236
- 16135 string characters out of 2878622
- 285301 words of memory out of 3000000
- 17526 multiletter control sequences out of 15000+200000
- 541571 words of font info for 51 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 48i,6n,55p,3756b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Spenc\AppData\Local\MiKTe
-X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Spenc/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Spe
-nc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr17.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on mainthesis.pdf (4 pages, 78539 bytes).
-PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+[2] (mainthesis.bbl [3] [4])
+
+Package natbib Warning: There were undefined citations.
+
+[5] (mainthesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 955 strings out of 479174
+ 16886 string characters out of 2854193
+ 309835 words of memory out of 3000000
+ 18617 multiletter control sequences out of 15000+600000
+ 410220 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,48p,1785b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on mainthesis.dvi (5 pages, 12144 bytes).
