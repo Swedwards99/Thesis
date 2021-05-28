@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{Badyaev and Uller}{2009}]{Badyaev2009}
+Badyaev, A.~V. and Uller, T. (2009).
+\newblock {Parental effects in ecology and evolution : mechanisms , processes
+  and implications}.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 364(March):1169--1177.
+
 \bibitem[\protect\astroncite{Barber et~al.}{2001}]{Barber2001}
 Barber, I., Arnott, S.~A., Braithwaite, V.~A., Andrew, J., and Huntingford,
   F.~A. (2001).
@@ -7,13 +14,6 @@ Barber, I., Arnott, S.~A., Braithwaite, V.~A., Andrew, J., and Huntingford,
   Offspring of brighter males grow slowly but resist parasitic infections}.
 \newblock {\em Proceedings of the Royal Society B: Biological Sciences},
   268(1462):71--76.
-
-\bibitem[\protect\astroncite{Bell and Hellmann}{2019}]{Bell2019}
-Bell, A.~M. and Hellmann, J.~K. (2019).
-\newblock {An Integrative Framework for Understanding the Mechanisms and
-  Multigenerational Consequences of Transgenerational Plasticity}.
-\newblock {\em Annual Review of Ecology, Evolution, and Systematics},
-  50:97--118.
 
 \bibitem[\protect\astroncite{Bell et~al.}{2016}]{Bell2016}
 Bell, A.~M., McGhee, K.~E., and Stein, L.~R. (2016).
@@ -26,52 +26,23 @@ Bell, A.~M., Trapp, R., and Keagy, J. (2018).
 \newblock {Parenting behaviour is highly heritable in male stickleback}.
 \newblock {\em Royal Society Open Science}, 5(1).
 
-\bibitem[\protect\astroncite{Denver and Middlemis-Maher}{2010}]{Denver2010}
-Denver, R.~J. and Middlemis-Maher, J. (2010).
-\newblock {Lessons from evolution: Developmental plasticity in vertebrates with
-  complex life cycles}.
-\newblock {\em Journal of Developmental Origins of Health and Disease},
-  1(5):282--291.
+\bibitem[\protect\astroncite{Charmantier
+  et~al.}{2014}]{charmantier_garant_kruuk_2014}
+Charmantier, A., Garant, D., and Kruuk, L. E.~B. (2014).
+\newblock {\em Quantitative genetics in the wild}.
+\newblock Oxford University Press.
 
-\bibitem[\protect\astroncite{Einarsson et~al.}{2004}]{Einarsson2004}
-Einarsson, {\'{A}}., Stef{\'{a}}nsd{\'{o}}ttir, G., J{\'{o}}hannesson, H.,
-  {\'{O}}lafsson, J.~S., {M{\'{a}}r G{\'{i}}slason}, G., Wakana, I.,
-  Gudbergsson, G., and Gardarsson, A. (2004).
-\newblock {The ecology of Lake Myvatn and the River Lax{\'{a}}: Variation in
-  space and time}.
-\newblock {\em Aquatic Ecology}, 38(2):317--348.
+\bibitem[\protect\astroncite{Danchin et~al.}{2011}]{Danchin2011}
+Danchin, {\'{E}}., Charmantier, A., Champagne, F.~A., and Mesoudi, A. (2011).
+\newblock {Beyond DNA : integrating inclusive inheritance into an extended
+  theory of evolution}.
+\newblock {\em Nature Publishing Group}, 12(7):475--486.
 
-\bibitem[\protect\astroncite{Heckwolf et~al.}{2018}]{Heckwolf2018}
-Heckwolf, M.~J., Meyer, B.~S., D{\"{o}}ring, T., Eizaguirre, C., and Reusch,
-  T.~B. (2018).
-\newblock {Transgenerational plasticity and selection shape the adaptive
-  potential of sticklebacks to salinity change}.
-\newblock {\em Evolutionary Applications}, 11(10):1873--1885.
-
-\bibitem[\protect\astroncite{Hellmann et~al.}{2020}]{Hellmann2020}
-Hellmann, J.~K., Carlson, E.~R., and Bell, A.~M. (2020).
-\newblock {Sex-specific plasticity across generations II: Grandpaternal effects
-  are lineage specific and sex specific}.
-\newblock {\em Journal of Animal Ecology}, 89(12):2800--2812.
-
-\bibitem[\protect\astroncite{Kishida et~al.}{2010}]{Kishida2010}
-Kishida, O., Trussell, G.~C., Mougi, A., and Nishimura, K. (2010).
-\newblock {Evolutionary ecology of inducible morphological plasticity in
-  predator-prey interaction: Toward the practical links with population
-  ecology}.
-\newblock {\em Population Ecology}, 52(1):37--46.
-
-\bibitem[\protect\astroncite{Klemetsen}{2010}]{Klemetsen2010}
-Klemetsen, A. (2010).
-\newblock {The Charr Problem Revisited: Exceptional Phenotypic Plasticity
-  Promotes Ecological Speciation in Postglacial Lakes}.
-\newblock {\em Freshwater Reviews}, 3(1):49--74.
-
-\bibitem[\protect\astroncite{Kozak and Boughman}{2012}]{Kozak2012}
-Kozak, G.~M. and Boughman, J.~W. (2012).
-\newblock {Plastic responses to parents and predators lead to divergent
-  shoaling behaviour in sticklebacks}.
-\newblock {\em Journal of Evolutionary Biology}, 25(4):759--769.
+\bibitem[\protect\astroncite{Donelson et~al.}{2018}]{Donelson2018}
+Donelson, J.~M., Salinas, S., Munday, P.~L., and Shama, L.~N. (2018).
+\newblock {Transgenerational plasticity and climate change experiments: Where
+  do we go from here?}
+\newblock {\em Global Change Biology}, 24(1):13--34.
 
 \bibitem[\protect\astroncite{Kristj{\'{a}}nsson
   et~al.}{2002}]{Kristjansson2002}
@@ -102,21 +73,21 @@ Ramler, D., Mitteroecker, P., Shama, L.~N., Wegner, K.~M., and Ahnelt, H.
   canalization in the threespine stickleback}.
 \newblock {\em Journal of Evolutionary Biology}, 27(3):497--507.
 
-\bibitem[\protect\astroncite{Richter-Boix et~al.}{2014}]{Richter-Boix2014}
-Richter-Boix, A., Orizaola, G., and Laurila, A. (2014).
-\newblock {Transgenerational phenotypic plasticity links breeding phenology
-  with offspring life-history}.
-\newblock {\em Ecology}, 95(10):2815--2825.
-
-\bibitem[\protect\astroncite{Shama et~al.}{2014}]{Shama2014}
-Shama, L.~N., Strobel, A., Mark, F.~C., and Wegner, K.~M. (2014).
-\newblock {Transgenerational plasticity in marine sticklebacks: Maternal
-  effects mediate impacts of a warming ocean}.
-\newblock {\em Functional Ecology}, 28(6):1482--1493.
-
 \bibitem[\protect\astroncite{Stein and Bell}{2014}]{Stein2014}
 Stein, L.~R. and Bell, A.~M. (2014).
 \newblock {Paternal programming in sticklebacks}.
 \newblock {\em Animal Behaviour}, 95:165--171.
+
+\bibitem[\protect\astroncite{Tigreros et~al.}{2021}]{Tigreros2021}
+Tigreros, N., Agrawal, A.~A., and Thaler, J.~S. (2021).
+\newblock {Genetic variation in parental effects contributes to the
+  evolutionary potential of prey responses to predation risk}.
+\newblock {\em American Naturalist}, 197(2):164--175.
+
+\bibitem[\protect\astroncite{Yoshizawa et~al.}{2012}]{Yoshizawa2012}
+Yoshizawa, M., Ashida, G., and Jeffery, W.~R. (2012).
+\newblock {PARENTAL GENETIC EFFECTS IN A CAVEFISH ADAPTIVE BEHAVIOR EXPLAIN
+  DISPARITY BETWEEN NUCLEAR AND MITOCHONDRIAL DNA}.
+\newblock {\em Evolution}, 66(9):2975--2982.
 
 \end{thebibliography}
