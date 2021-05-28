@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.23)  28 MAY 2021 13:11
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.4)  25 APR 2021 21:16
+>>>>>>> 74244923d2cdea290fcd5aba989f380fa10b2c0c
 entering extended mode
 **./mainthesis.tex
 (mainthesis.tex
@@ -186,6 +190,7 @@ Here is how much of TeX's memory you used:
  19556 multiletter control sequences out of 15000+600000
  414316 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
+<<<<<<< HEAD
  41i,6n,50p,1536b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
@@ -202,6 +207,18 @@ penc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
 /Users/Spenc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb>
 Output written on mainthesis.pdf (4 pages, 118952 bytes).
+=======
+ 48i,6n,55p,3753b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Spenc\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Spenc/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Spe
+nc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr17.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on mainthesis.pdf (4 pages, 78501 bytes).
+>>>>>>> 74244923d2cdea290fcd5aba989f380fa10b2c0c
 PDF statistics:
  263 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
