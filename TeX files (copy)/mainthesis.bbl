@@ -7,14 +7,6 @@ Badyaev, A.~V. and Uller, T. (2009).
 \newblock {\em Philosophical Transactions of the Royal Society B: Biological
   Sciences}, 364(March):1169--1177.
 
-\bibitem[\protect\astroncite{Barber et~al.}{2001}]{Barber2001}
-Barber, I., Arnott, S.~A., Braithwaite, V.~A., Andrew, J., and Huntingford,
-  F.~A. (2001).
-\newblock {Indirect fitness consequences of mate choice in sticklebacks:
-  Offspring of brighter males grow slowly but resist parasitic infections}.
-\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
-  268(1462):71--76.
-
 \bibitem[\protect\astroncite{Bell et~al.}{2016}]{Bell2016}
 Bell, A.~M., McGhee, K.~E., and Stein, L.~R. (2016).
 \newblock {Effects of mothers' and fathers' experience with predation risk on
@@ -25,6 +17,13 @@ Bell, A.~M., McGhee, K.~E., and Stein, L.~R. (2016).
 Bell, A.~M., Trapp, R., and Keagy, J. (2018).
 \newblock {Parenting behaviour is highly heritable in male stickleback}.
 \newblock {\em Royal Society Open Science}, 5(1).
+
+\bibitem[\protect\astroncite{Bolker et~al.}{2009}]{Bolker2009}
+Bolker, B.~M., Brooks, M.~E., Clark, C.~J., Geange, S.~W., Poulsen, J.~R.,
+  Stevens, M. H.~H., and White, J. S.~S. (2009).
+\newblock {Generalized linear mixed models: a practical guide for ecology and
+  evolution}.
+\newblock {\em Trends in Ecology and Evolution}, 24(3):127--135.
 
 \bibitem[\protect\astroncite{Charmantier
   et~al.}{2014}]{charmantier_garant_kruuk_2014}
@@ -66,13 +65,6 @@ Mommer, B.~C. and Bell, A.~M. (2014).
   aculeatus )}.
 \newblock 9(6).
 
-\bibitem[\protect\astroncite{Ramler et~al.}{2014}]{Ramler2014}
-Ramler, D., Mitteroecker, P., Shama, L.~N., Wegner, K.~M., and Ahnelt, H.
-  (2014).
-\newblock {Nonlinear effects of temperature on body form and developmental
-  canalization in the threespine stickleback}.
-\newblock {\em Journal of Evolutionary Biology}, 27(3):497--507.
-
 \bibitem[\protect\astroncite{Stein and Bell}{2014}]{Stein2014}
 Stein, L.~R. and Bell, A.~M. (2014).
 \newblock {Paternal programming in sticklebacks}.
@@ -83,6 +75,17 @@ Tigreros, N., Agrawal, A.~A., and Thaler, J.~S. (2021).
 \newblock {Genetic variation in parental effects contributes to the
   evolutionary potential of prey responses to predation risk}.
 \newblock {\em American Naturalist}, 197(2):164--175.
+
+\bibitem[\protect\astroncite{{Van Dooren} et~al.}{2016}]{VanDooren2016}
+{Van Dooren}, T.~J., Hoyle, R.~B., and Plaistow, S.~J. (2016).
+\newblock {Maternal Effects}.
+\newblock {\em Encyclopedia of Evolutionary Biology}, 2:446--452.
+
+\bibitem[\protect\astroncite{Wilson et~al.}{2010}]{Wilson2010}
+Wilson, A.~J., R{\'{e}}ale, D., Clements, M.~N., Morrissey, M.~M., Postma, E.,
+  Walling, C.~A., Kruuk, L.~E., and Nussey, D.~H. (2010).
+\newblock {An ecologist's guide to the animal model}.
+\newblock {\em Journal of Animal Ecology}, 79(1):13--26.
 
 \bibitem[\protect\astroncite{Yoshizawa et~al.}{2012}]{Yoshizawa2012}
 Yoshizawa, M., Ashida, G., and Jeffery, W.~R. (2012).

@@ -6,45 +6,45 @@ The style file: apa.bst
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 Database file #1: mainbib.bib
 Warning--empty journal in Mommer2014
-You've used 14 entries,
+You've used 15 entries,
             1940 wiz_defined-function locations,
-            578 strings with 6884 characters,
-and the built_in function-call counts, 5940 in all, are:
-= -- 577
-> -- 272
+            582 strings with 7031 characters,
+and the built_in function-call counts, 6522 in all, are:
+= -- 630
+> -- 315
 < -- 3
-+ -- 92
-- -- 92
-* -- 578
-:= -- 1037
-add.period$ -- 42
-call.type$ -- 14
-change.case$ -- 115
-chr.to.int$ -- 14
-cite$ -- 15
-duplicate$ -- 194
-empty$ -- 394
-format.name$ -- 112
-if$ -- 1119
++ -- 108
+- -- 108
+* -- 638
+:= -- 1141
+add.period$ -- 45
+call.type$ -- 15
+change.case$ -- 128
+chr.to.int$ -- 15
+cite$ -- 16
+duplicate$ -- 208
+empty$ -- 423
+format.name$ -- 129
+if$ -- 1225
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 15
-newline$ -- 73
-num.names$ -- 42
-pop$ -- 92
+missing$ -- 16
+newline$ -- 78
+num.names$ -- 45
+pop$ -- 103
 preamble$ -- 1
-purify$ -- 116
+purify$ -- 129
 quote$ -- 0
-skip$ -- 145
+skip$ -- 155
 stack$ -- 0
-substring$ -- 443
-swap$ -- 27
+substring$ -- 480
+swap$ -- 29
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 82
+type$ -- 88
 warning$ -- 1
-while$ -- 50
+while$ -- 54
 width$ -- 0
-write$ -- 182
+write$ -- 195
 (There was 1 warning)
