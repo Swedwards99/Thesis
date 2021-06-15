@@ -7,6 +7,14 @@ Badyaev, A.~V. and Uller, T. (2009).
 \newblock {\em Philosophical Transactions of the Royal Society B: Biological
   Sciences}, 364(March):1169--1177.
 
+\bibitem[\protect\astroncite{Bartrons et~al.}{2018}]{Bartrons2018}
+Bartrons, M., Arranz, I., Ca{\~{n}}edo-Arg{\"{u}}elles, M., Sgarzi, S.,
+  Lauridsen, T.~L., Landkildehus, F., Quintana, X.~D., Brucet, S., and
+  Jeppesen, E. (2018).
+\newblock {Fish shift the feeding behaviour and trophic niche diversification
+  of their prey in subarctic Lake M{\'{y}}vatn, Iceland}.
+\newblock {\em Hydrobiologia}, 816(1):243--254.
+
 \bibitem[\protect\astroncite{Bell et~al.}{2016}]{Bell2016}
 Bell, A.~M., McGhee, K.~E., and Stein, L.~R. (2016).
 \newblock {Effects of mothers' and fathers' experience with predation risk on
@@ -43,12 +51,27 @@ Donelson, J.~M., Salinas, S., Munday, P.~L., and Shama, L.~N. (2018).
   do we go from here?}
 \newblock {\em Global Change Biology}, 24(1):13--34.
 
+\bibitem[\protect\astroncite{Einarsson et~al.}{2004}]{Einarsson2004}
+Einarsson, {\'{A}}., Stef{\'{a}}nsd{\'{o}}ttir, G., J{\'{o}}hannesson, H.,
+  {\'{O}}lafsson, J.~S., {M{\'{a}}r G{\'{i}}slason}, G., Wakana, I.,
+  Gudbergsson, G., and Gardarsson, A. (2004).
+\newblock {The ecology of Lake Myvatn and the River Lax{\'{a}}: Variation in
+  space and time}.
+\newblock {\em Aquatic Ecology}, 38(2):317--348.
+
 \bibitem[\protect\astroncite{Kristj{\'{a}}nsson
   et~al.}{2002}]{Kristjansson2002}
 Kristj{\'{a}}nsson, B.~K., Sk{\'{u}}lason, S., and Noakes, D.~L. (2002).
 \newblock {Morphological segregation of Icelandic threespine stickleback
   (Gasterosteus aculeatus L)}.
 \newblock {\em Biological Journal of the Linnean Society}, 76(2):247--257.
+
+\bibitem[\protect\astroncite{Lucek et~al.}{2014}]{Lucek2014}
+Lucek, K., Sivasundar, A., Kristj{\'{a}}nsson, B.~K., Sk{\'{u}}lason, S., and
+  Seehausen, O. (2014).
+\newblock {Quick divergence but slow convergence during ecotype formation in
+  lake and stream stickleback pairs of variable age}.
+\newblock {\em Journal of Evolutionary Biology}, 27(9):1878--1892.
 
 \bibitem[\protect\astroncite{Millet et~al.}{2013}]{Millet2013}
 Millet, A., Kristj{\'{a}}nsson, B.~K., Einarsson, {\'{A}}., and
@@ -65,6 +88,19 @@ Mommer, B.~C. and Bell, A.~M. (2014).
   aculeatus )}.
 \newblock 9(6).
 
+\bibitem[\protect\astroncite{{\'{O}}lafsd{\'{o}}ttir
+  et~al.}{2007}]{Olafsdottir2007}
+{\'{O}}lafsd{\'{o}}ttir, G.~{\'{A}}., Snorrason, S.~S., and Ritchie, M.~G.
+  (2007).
+\newblock {Postglacial intra-lacustrine divergence of Icelandic threespine
+  stickleback morphs in three neovolcanic lakes}.
+\newblock {\em Journal of Evolutionary Biology}, 20(5):1870--1881.
+
+\bibitem[\protect\astroncite{R{\"{a}}s{\"{a}}nen and Kruuk}{2007}]{Rasanen2007}
+R{\"{a}}s{\"{a}}nen, K. and Kruuk, L.~E. (2007).
+\newblock {Maternal effects and evolution at ecological time-scales}.
+\newblock {\em Functional Ecology}, 21(3):408--421.
+
 \bibitem[\protect\astroncite{Stein and Bell}{2014}]{Stein2014}
 Stein, L.~R. and Bell, A.~M. (2014).
 \newblock {Paternal programming in sticklebacks}.
@@ -75,6 +111,11 @@ Tigreros, N., Agrawal, A.~A., and Thaler, J.~S. (2021).
 \newblock {Genetic variation in parental effects contributes to the
   evolutionary potential of prey responses to predation risk}.
 \newblock {\em American Naturalist}, 197(2):164--175.
+
+\bibitem[\protect\astroncite{Uller}{2008}]{Uller2008}
+Uller, T. (2008).
+\newblock {Developmental plasticity and the evolution of parental effects}.
+\newblock {\em Trends in Ecology and Evolution}, 23(8):432--438.
 
 \bibitem[\protect\astroncite{{Van Dooren} et~al.}{2016}]{VanDooren2016}
 {Van Dooren}, T.~J., Hoyle, R.~B., and Plaistow, S.~J. (2016).

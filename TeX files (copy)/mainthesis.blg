@@ -5,46 +5,58 @@ Reallocating 'name_of_file' (item size: 1) to 4 items.
 The style file: apa.bst
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 Database file #1: mainbib.bib
+Repeated entry---line 2297 of file mainbib.bib
+ : @article{Olafsdottir2007
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2329 of file mainbib.bib
+ : @article{Einarsson2004
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2344 of file mainbib.bib
+ : @article{Bartrons2018
+ :                      ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in Mommer2014
-You've used 15 entries,
+You've used 21 entries,
             1940 wiz_defined-function locations,
-            582 strings with 7031 characters,
-and the built_in function-call counts, 6522 in all, are:
-= -- 630
-> -- 315
-< -- 3
-+ -- 108
-- -- 108
-* -- 638
-:= -- 1141
-add.period$ -- 45
-call.type$ -- 15
-change.case$ -- 128
-chr.to.int$ -- 15
-cite$ -- 16
-duplicate$ -- 208
-empty$ -- 423
-format.name$ -- 129
-if$ -- 1225
+            626 strings with 8543 characters,
+and the built_in function-call counts, 9462 in all, are:
+= -- 912
+> -- 472
+< -- 5
++ -- 164
+- -- 164
+* -- 938
+:= -- 1649
+add.period$ -- 63
+call.type$ -- 21
+change.case$ -- 186
+chr.to.int$ -- 21
+cite$ -- 22
+duplicate$ -- 292
+empty$ -- 607
+format.name$ -- 193
+if$ -- 1776
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 78
-num.names$ -- 45
-pop$ -- 103
+missing$ -- 22
+newline$ -- 108
+num.names$ -- 63
+pop$ -- 147
 preamble$ -- 1
-purify$ -- 129
+purify$ -- 187
 quote$ -- 0
-skip$ -- 155
+skip$ -- 217
 stack$ -- 0
-substring$ -- 480
-swap$ -- 29
+substring$ -- 714
+swap$ -- 41
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 88
+type$ -- 124
 warning$ -- 1
-while$ -- 54
+while$ -- 78
 width$ -- 0
-write$ -- 195
-(There was 1 warning)
+write$ -- 273
+(There were 3 error messages)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.23)  8 JUN 2021 17:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.23)  15 JUN 2021 15:28
 entering extended mode
 **./mainthesis.tex
 (mainthesis.tex
@@ -164,153 +164,49 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 26.
-
-
-Package natbib Warning: Citation `charmantier_garant_kruuk_2014' on page 1 unde
-fined on input line 38.
-
-
-Package natbib Warning: Citation `Danchin2011' on page 1 undefined on input lin
-e 38.
-
-
-Package natbib Warning: Citation `Badyaev2009' on page 1 undefined on input lin
-e 38.
-
-
-Package natbib Warning: Citation `charmantier_garant_kruuk_2014' on page 1 unde
-fined on input line 38.
-
-
-Package natbib Warning: Citation `Tigreros2021' on page 1 undefined on input li
-ne 38.
-
-
-Package natbib Warning: Citation `Yoshizawa2012' on page 1 undefined on input l
-ine 38.
-
-
-Package natbib Warning: Citation `Danchin2011' on page 1 undefined on input lin
-e 38.
-
-
-Package natbib Warning: Citation `Donelson2018' on page 1 undefined on input li
-ne 38.
-
-[1
+ [1
 
 {C:/Users/Spenc/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 39.
-
-
-Package natbib Warning: Citation `Wilson2010' on page 2 undefined on input line
- 44.
-
-
-Package natbib Warning: Citation `Bolker2009' on page 2 undefined on input line
- 44.
-
-
-Package natbib Warning: Citation `VanDooren2016' on page 2 undefined on input l
-ine 44.
-
-
-Package natbib Warning: Citation `VanDooren2016' on page 2 undefined on input l
-ine 44.
-
-
-Package natbib Warning: Citation `Kristjansson2002' on page 2 undefined on inpu
-t line 48.
-
-
-Package natbib Warning: Citation `Millet2013' on page 2 undefined on input line
- 48.
-
-
-Package natbib Warning: Citation `Bell2018' on page 2 undefined on input line 4
-8.
-
-
-Package natbib Warning: Citation `Bell2016' on page 2 undefined on input line 4
-8.
-
-
-Package natbib Warning: Citation `Stein2014' on page 2 undefined on input line 
-48.
-
-
-Package natbib Warning: Citation `Mommer2014' on page 2 undefined on input line
- 48.
-
-
-Package natbib Warning: Citation `Bell2016' on page 2 undefined on input line 4
-8.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+(Font)              <6> on input line 41.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-[2]
-Overfull \hbox (12.27405pt too wide) in paragraph at lines 50--51
-[]\T1/cmr/m/n/12 Another more com-pre-hen-sive way to quan-tify parental ef-fec
-ts is the breeder's
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Package natbib Warning: Citation `Badyaev2009' on page 3 undefined on input lin
-e 52.
-
-<./images//pedigree.png, id=20, 450.9347pt x 370.38374pt>
+[3] [4]
+<./images//pedigree.png, id=26, 450.9347pt x 370.38374pt>
 File: ./images//pedigree.png Graphic file (type png)
 <use ./images//pedigree.png>
-Package pdftex.def Info: ./images//pedigree.png  used on input line 65.
+Package pdftex.def Info: ./images//pedigree.png  used on input line 72.
 (pdftex.def)             Requested size: 272.99881pt x 224.24391pt.
-[3] (mainthesis.bbl [4 <./images//pedigree.png>] [5])
-
-Package natbib Warning: There were undefined citations.
-
-[6] (mainthesis.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ (mainthesis.bbl [5] [6 <./images//pedigree.png>] [7]) [8]
+(mainthesis.aux) ) 
 Here is how much of TeX's memory you used:
- 2717 strings out of 479173
- 40893 string characters out of 2854167
- 349044 words of memory out of 3000000
- 20314 multiletter control sequences out of 15000+600000
+ 2736 strings out of 479173
+ 41256 string characters out of 2854167
+ 351785 words of memory out of 3000000
+ 20333 multiletter control sequences out of 15000+600000
  414316 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,1483b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
-1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\tcrm1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecti2074.pk> <C:\Users\Spenc\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/Spenc/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Spenc/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Sp
-enc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
-Users/Spenc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb>
-Output written on mainthesis.pdf (6 pages, 139153 bytes).
+ 55i,6n,62p,3862b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecti1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecbx1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Spenc\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Spenc\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Spenc\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti2074.pk> <C:\Users\Spenc\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/Spe
+nc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/
+Users/Spenc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Users/Spenc/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb>
+Output written on mainthesis.pdf (8 pages, 155851 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
+ 320 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
