@@ -18,45 +18,45 @@ Repeated entry---line 2344 of file mainbib.bib
  :                      ,
 I'm skipping whatever remains of this entry
 Warning--empty journal in Mommer2014
-You've used 21 entries,
+You've used 24 entries,
             1940 wiz_defined-function locations,
-            626 strings with 8543 characters,
-and the built_in function-call counts, 9462 in all, are:
-= -- 912
-> -- 472
-< -- 5
-+ -- 164
-- -- 164
-* -- 938
-:= -- 1649
-add.period$ -- 63
-call.type$ -- 21
-change.case$ -- 186
-chr.to.int$ -- 21
-cite$ -- 22
-duplicate$ -- 292
-empty$ -- 607
-format.name$ -- 193
-if$ -- 1776
+            641 strings with 9151 characters,
+and the built_in function-call counts, 10531 in all, are:
+= -- 1017
+> -- 519
+< -- 7
++ -- 180
+- -- 180
+* -- 1031
+:= -- 1849
+add.period$ -- 72
+call.type$ -- 24
+change.case$ -- 209
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 328
+empty$ -- 673
+format.name$ -- 212
+if$ -- 1973
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 22
-newline$ -- 108
-num.names$ -- 63
-pop$ -- 147
+missing$ -- 23
+newline$ -- 123
+num.names$ -- 72
+pop$ -- 164
 preamble$ -- 1
-purify$ -- 187
+purify$ -- 210
 quote$ -- 0
-skip$ -- 217
+skip$ -- 247
 stack$ -- 0
-substring$ -- 714
-swap$ -- 41
+substring$ -- 781
+swap$ -- 45
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 124
+type$ -- 142
 warning$ -- 1
-while$ -- 78
+while$ -- 86
 width$ -- 0
-write$ -- 273
+write$ -- 312
 (There were 3 error messages)

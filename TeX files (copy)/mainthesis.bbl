@@ -26,6 +26,14 @@ Bell, A.~M., Trapp, R., and Keagy, J. (2018).
 \newblock {Parenting behaviour is highly heritable in male stickleback}.
 \newblock {\em Royal Society Open Science}, 5(1).
 
+\bibitem[\protect\astroncite{Berner et~al.}{2011}]{Berner2011}
+Berner, D., Kaeuffer, R., Grandchamp, A.~C., Raeymaekers, J.~A.,
+  R{\"{a}}s{\"{a}}nen, K., and Hendry, A.~P. (2011).
+\newblock {Quantitative genetic inheritance of morphological divergence in a
+  lake-stream stickleback ecotype pair: Implications for reproductive
+  isolation}.
+\newblock {\em Journal of Evolutionary Biology}, 24(9):1975--1983.
+
 \bibitem[\protect\astroncite{Bolker et~al.}{2009}]{Bolker2009}
 Bolker, B.~M., Brooks, M.~E., Clark, C.~J., Geange, S.~W., Poulsen, J.~R.,
   Stevens, M. H.~H., and White, J. S.~S. (2009).
@@ -44,6 +52,12 @@ Danchin, {\'{E}}., Charmantier, A., Champagne, F.~A., and Mesoudi, A. (2011).
 \newblock {Beyond DNA : integrating inclusive inheritance into an extended
   theory of evolution}.
 \newblock {\em Nature Publishing Group}, 12(7):475--486.
+
+\bibitem[\protect\astroncite{Diethelm}{2011}]{Diethelm}
+Diethelm, M. (2011).
+\newblock {Maternal investment and maternal effects in three-spine stickleback
+  ( Gasterosteus aculeatus ) inhabiting contrasting temperatures}.
+\newblock Master's thesis, ETH Z\"{u}rich.
 
 \bibitem[\protect\astroncite{Donelson et~al.}{2018}]{Donelson2018}
 Donelson, J.~M., Salinas, S., Munday, P.~L., and Shama, L.~N. (2018).
@@ -100,6 +114,12 @@ Mommer, B.~C. and Bell, A.~M. (2014).
 R{\"{a}}s{\"{a}}nen, K. and Kruuk, L.~E. (2007).
 \newblock {Maternal effects and evolution at ecological time-scales}.
 \newblock {\em Functional Ecology}, 21(3):408--421.
+
+\bibitem[\protect\astroncite{Senn}{2010}]{Senn}
+Senn, M. (2010).
+\newblock {Divergence in reproductive traits of three-spine stickleback
+  inhabiting contrasting temperatures}.
+\newblock Master's thesis, EWAG/ETH Z\"{u}rich.
 
 \bibitem[\protect\astroncite{Stein and Bell}{2014}]{Stein2014}
 Stein, L.~R. and Bell, A.~M. (2014).
