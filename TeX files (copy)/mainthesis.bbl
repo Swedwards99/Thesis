@@ -1,5 +1,17 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{{Ab Ghani} et~al.}{2012}]{AbGhani2012}
+{Ab Ghani}, N.~I., Herczeg, G., and Meril{\"{a}}, J. (2012).
+\newblock {Body size divergence in nine-spined sticklebacks: Disentangling
+  additive genetic and maternal effects}.
+\newblock {\em Biological Journal of the Linnean Society}, 107(3):521--528.
+
+\bibitem[\protect\astroncite{Badyaev et~al.}{2002}]{Badyaev2002}
+Badyaev, A.~V., Hill, G.~E., and Whittingham, L.~A. (2002).
+\newblock {Population consequences of maternal effects: Sex-bias in egg-laying
+  order facilitates divergence in sexual dimorphism between bird populations}.
+\newblock {\em Journal of Evolutionary Biology}, 15(6):997--1003.
+
 \bibitem[\protect\astroncite{Badyaev and Uller}{2009}]{Badyaev2009}
 Badyaev, A.~V. and Uller, T. (2009).
 \newblock {Parental effects in ecology and evolution : mechanisms , processes
@@ -14,6 +26,13 @@ Bartrons, M., Arranz, I., Ca{\~{n}}edo-Arg{\"{u}}elles, M., Sgarzi, S.,
 \newblock {Fish shift the feeding behaviour and trophic niche diversification
   of their prey in subarctic Lake M{\'{y}}vatn, Iceland}.
 \newblock {\em Hydrobiologia}, 816(1):243--254.
+
+\bibitem[\protect\astroncite{Beckers et~al.}{2015}]{Beckers2015}
+Beckers, O.~M., Anderson, W., and Moczek, A.~P. (2015).
+\newblock {A combination of developmental plasticity, parental effects, and
+  genetic differentiation mediates divergences in life history traits between
+  dung beetle populations}.
+\newblock {\em Evolution and Development}, 17(2):148--159.
 
 \bibitem[\protect\astroncite{Bell et~al.}{2016}]{Bell2016}
 Bell, A.~M., McGhee, K.~E., and Stein, L.~R. (2016).
@@ -53,6 +72,12 @@ Danchin, {\'{E}}., Charmantier, A., Champagne, F.~A., and Mesoudi, A. (2011).
   theory of evolution}.
 \newblock {\em Nature Publishing Group}, 12(7):475--486.
 
+\bibitem[\protect\astroncite{Delarue}{2016}]{Delarue}
+Delarue, C. (2016).
+\newblock {Plasticity of trait divergence in threespine
+  stickleback(Gasterosteus aculeatus) from Lake M{\'{y}}vatn, Iceland}.
+\newblock Master's thesis, H{\'{o}}lar University College.
+
 \bibitem[\protect\astroncite{Diethelm}{2011}]{Diethelm}
 Diethelm, M. (2011).
 \newblock {Maternal investment and maternal effects in three-spine stickleback
@@ -73,6 +98,61 @@ Einarsson, {\'{A}}., Stef{\'{a}}nsd{\'{o}}ttir, G., J{\'{o}}hannesson, H.,
   space and time}.
 \newblock {\em Aquatic Ecology}, 38(2):317--348.
 
+\bibitem[\protect\astroncite{Feiner et~al.}{2016}]{Feiner2016}
+Feiner, Z.~S., Wang, H.~Y., Einhouse, D.~W., Jackson, J.~R., Rutherford, E.~S.,
+  Schelb, C., Vandergoot, C.~S., Zorn, T.~G., and H{\"{o}}{\"{o}}k, T.~O.
+  (2016).
+\newblock {Thermal environment and maternal effects shape egg size in a
+  freshwater fish}.
+\newblock {\em Ecosphere}, 7(5).
+
+\bibitem[\protect\astroncite{Giesing et~al.}{2011}]{Giesing2011}
+Giesing, E.~R., Suski, C.~D., Warner, R.~E., and Bell, A.~M. (2011).
+\newblock {Female sticklebacks transfer information via eggs : effects of
+  maternal experience with predators on offspring}.
+\newblock (November 2010):1753--1759.
+
+\bibitem[\protect\astroncite{Green}{2008}]{Green2008}
+Green, B.~S. (2008).
+\newblock {Maternal Effects in Fish Populations}.
+\newblock {\em Advances in Marine Biology}, 54(08):1--105.
+
+\bibitem[\protect\astroncite{Gregersen et~al.}{2006}]{Gregersen2006}
+Gregersen, F., Haugen, T.~O., and Larsen, N. (2006).
+\newblock {Egg size differentiation among sympatric demes of brown trout:
+  Possible effects of density-dependent interactions among fry}.
+\newblock {\em Ecology of Freshwater Fish}, 15(3):237--246.
+
+\bibitem[\protect\astroncite{Gregersen et~al.}{2008}]{Gregersen2008}
+Gregersen, F., Haugen, T.~O., and V{\o}llestad, L.~A. (2008).
+\newblock {Contemporary egg size divergence among sympatric grayling demes with
+  common ancestors}.
+\newblock {\em Ecology of Freshwater Fish}, 17(1):110--118.
+
+\bibitem[\protect\astroncite{Holtmeier}{2001}]{Holtmeier2001}
+Holtmeier, C.~L. (2001).
+\newblock {Heterochrony, maternal effects, and phenotypic variation among
+  sympatric pupfishes}.
+\newblock {\em Evolution}, 55(2):330--338.
+
+\bibitem[\protect\astroncite{Kingsolver et~al.}{2007}]{Kingsolver2007}
+Kingsolver, J.~G., Massie, K.~R., Ragland, G.~J., and Smith, M.~H. (2007).
+\newblock {Rapid population divergence in thermal reaction norms for an
+  invading species: Breaking the temperature-size rule}.
+\newblock {\em Journal of Evolutionary Biology}, 20(3):892--900.
+
+\bibitem[\protect\astroncite{Kozak and Boughman}{2012}]{Kozak2012a}
+Kozak, G.~M. and Boughman, J.~W. (2012).
+\newblock {Plastic responses to parents and predators lead to divergent
+  shoaling behaviour in sticklebacks}.
+\newblock {\em Journal of Evolutionary Biology}, 25(4):759--769.
+
+\bibitem[\protect\astroncite{Kristj{\'{a}}nsson}{2005}]{Kristjansson2005}
+Kristj{\'{a}}nsson, B.~K. (2005).
+\newblock {Rapid morphological changes in threespine stickleback, Gasterosteus
+  aculeatus, in freshwater}.
+\newblock {\em Environmental Biology of Fishes}, 74(3-4):357--363.
+
 \bibitem[\protect\astroncite{Kristj{\'{a}}nsson
   et~al.}{2002}]{Kristjansson2002}
 Kristj{\'{a}}nsson, B.~K., Sk{\'{u}}lason, S., and Noakes, D.~L. (2002).
@@ -87,12 +167,24 @@ Lucek, K., Sivasundar, A., Kristj{\'{a}}nsson, B.~K., Sk{\'{u}}lason, S., and
   lake and stream stickleback pairs of variable age}.
 \newblock {\em Journal of Evolutionary Biology}, 27(9):1878--1892.
 
+\bibitem[\protect\astroncite{Marshall et~al.}{2008}]{Marshall2008}
+Marshall, D.~J., Allen, R.~M., and Crean, A.~J. (2008).
+\newblock {The ecological and evolutionary importance of maternal effects in
+  the sea}.
+\newblock {\em Oceanography and Marine Biology}, 46(October):203--250.
+
 \bibitem[\protect\astroncite{Massey and Hutchings}{2021}]{Massey2021}
 Massey, M.~D. and Hutchings, J.~A. (2021).
 \newblock {Thermal variability during ectotherm egg incubation: A synthesis and
   framework}.
 \newblock {\em Journal of Experimental Zoology Part A: Ecological and
   Integrative Physiology}, 335(1):59--71.
+
+\bibitem[\protect\astroncite{Mcghee et~al.}{2012}]{Mcghee2012}
+Mcghee, K.~E., Pintor, L.~M., Suhr, E.~L., and Bell, A.~M. (2012).
+\newblock {Maternal exposure to predation risk decreases offspring antipredator
+  behaviour and survival in threespined stickleback}.
+\newblock {\em Functional Ecology}, 26(4):932--940.
 
 \bibitem[\protect\astroncite{Millet et~al.}{2013}]{Millet2013}
 Millet, A., Kristj{\'{a}}nsson, B.~K., Einarsson, {\'{A}}., and
@@ -109,6 +201,11 @@ Mommer, B.~C. and Bell, A.~M. (2014).
   aculeatus )}.
 \newblock 9(6).
 
+\bibitem[\protect\astroncite{Mousseau and Fox}{1998}]{Mousseau1998}
+Mousseau, T.~A. and Fox, C.~W. (1998).
+\newblock {The adaptive significance of maternal effects}.
+\newblock {\em Trends in Ecology and Evolution}, 13(10):403--407.
+
 \bibitem[\protect\astroncite{{\'{O}}lafsd{\'{o}}ttir
   et~al.}{2007}]{Olafsdottir2007}
 {\'{O}}lafsd{\'{o}}ttir, G.~{\'{A}}., Snorrason, S.~S., and Ritchie, M.~G.
@@ -116,6 +213,18 @@ Mommer, B.~C. and Bell, A.~M. (2014).
 \newblock {Postglacial intra-lacustrine divergence of Icelandic threespine
   stickleback morphs in three neovolcanic lakes}.
 \newblock {\em Journal of Evolutionary Biology}, 20(5):1870--1881.
+
+\bibitem[\protect\astroncite{Perry et~al.}{2005}]{Perry2005}
+Perry, G.~M., Audet, C., and Bernatchez, L. (2005).
+\newblock {Maternal genetic effects on adaptive divergence between anadromous
+  and resident brook charr during early life history}.
+\newblock {\em Journal of Evolutionary Biology}, 18(5):1348--1361.
+
+\bibitem[\protect\astroncite{Pfennig and Martin}{2009}]{Pfennig2009}
+Pfennig, D.~W. and Martin, R.~A. (2009).
+\newblock {A maternal effect mediates rapid population divergence and character
+  displacement in spadefoot toads}.
+\newblock {\em Evolution}, 63(4):898--909.
 
 \bibitem[\protect\astroncite{Ramler et~al.}{2014}]{Ramler2014}
 Ramler, D., Mitteroecker, P., Shama, L.~N., Wegner, K.~M., and Ahnelt, H.
@@ -135,10 +244,36 @@ Senn, M. (2010).
   inhabiting contrasting temperatures}.
 \newblock Master's thesis, EWAG/ETH Z\"{u}rich.
 
+\bibitem[\protect\astroncite{Shama and Wegner}{2014}]{Shama2014b}
+Shama, L.~N. and Wegner, K.~M. (2014).
+\newblock {Grandparental effects in marine sticklebacks: Transgenerational
+  plasticity across multiple generations}.
+\newblock {\em Journal of Evolutionary Biology}, 27(11):2297--2307.
+
+\bibitem[\protect\astroncite{SK{\'{U}}LASON et~al.}{1989}]{SKULASON1989}
+SK{\'{U}}LASON, S., NOAKES, D.~L., and SNORRASON, S.~S. (1989).
+\newblock {Ontogeny of trophic morphology in four sympatric morphs of arctic
+  charr Salvelinus alpinus in Thingvallavatn, Iceland}.
+\newblock {\em Biological Journal of the Linnean Society}, 38(3):281--301.
+
 \bibitem[\protect\astroncite{Stein and Bell}{2014}]{Stein2014}
 Stein, L.~R. and Bell, A.~M. (2014).
 \newblock {Paternal programming in sticklebacks}.
 \newblock {\em Animal Behaviour}, 95:165--171.
+
+\bibitem[\protect\astroncite{Stratmann and Taborsky}{2014}]{Stratmann2014}
+Stratmann, A. and Taborsky, B. (2014).
+\newblock {Antipredator defences of young are independently determined by
+  genetic inheritance, maternal effects and own early experience in
+  mouthbrooding cichlids}.
+\newblock {\em Functional Ecology}, 28(4):944--953.
+
+\bibitem[\protect\astroncite{Tibblin et~al.}{2015}]{Tibblin2015}
+Tibblin, P., Forsman, A., Koch-Schmidt, P., Nordahl, O., Johannessen, P.,
+  Nilsson, J., and Larsson, P. (2015).
+\newblock {Evolutionary divergence of adult body size and juvenile growth in
+  sympatric subpopulations of a top predator in aquatic ecosystems}.
+\newblock {\em American Naturalist}, 186(1):98--110.
 
 \bibitem[\protect\astroncite{Tigreros et~al.}{2021}]{Tigreros2021}
 Tigreros, N., Agrawal, A.~A., and Thaler, J.~S. (2021).
@@ -156,16 +291,34 @@ Uller, T. (2008).
 \newblock {Maternal Effects}.
 \newblock {\em Encyclopedia of Evolutionary Biology}, 2:446--452.
 
+\bibitem[\protect\astroncite{White and Wilson}{2019}]{White2019}
+White, S.~J. and Wilson, A.~J. (2019).
+\newblock {Evolutionary genetics of personality in the Trinidadian guppy I:
+  maternal and additive genetic effects across ontogeny}.
+\newblock {\em Heredity}, 122(1):1--14.
+
 \bibitem[\protect\astroncite{Wilson et~al.}{2010}]{Wilson2010}
 Wilson, A.~J., R{\'{e}}ale, D., Clements, M.~N., Morrissey, M.~M., Postma, E.,
   Walling, C.~A., Kruuk, L.~E., and Nussey, D.~H. (2010).
 \newblock {An ecologist's guide to the animal model}.
 \newblock {\em Journal of Animal Ecology}, 79(1):13--26.
 
+\bibitem[\protect\astroncite{Wolf and Wade}{2009}]{Wolf2009}
+Wolf, J.~B. and Wade, M.~J. (2009).
+\newblock {What are maternal effects (and what are they not)?}
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 364(1520):1107--1115.
+
 \bibitem[\protect\astroncite{Yoshizawa et~al.}{2012}]{Yoshizawa2012}
 Yoshizawa, M., Ashida, G., and Jeffery, W.~R. (2012).
 \newblock {PARENTAL GENETIC EFFECTS IN A CAVEFISH ADAPTIVE BEHAVIOR EXPLAIN
   DISPARITY BETWEEN NUCLEAR AND MITOCHONDRIAL DNA}.
 \newblock {\em Evolution}, 66(9):2975--2982.
+
+\bibitem[\protect\astroncite{Zhang et~al.}{2009}]{Zhang2009}
+Zhang, Y.~P., Du, W.~G., and Zhu, L.~J. (2009).
+\newblock {Differences in body size and female reproductive traits between two
+  sympatric geckos, Gekko japonicus and Gekko hokouensis}.
+\newblock {\em Folia Zoologica}, 58(1):113--122.
 
 \end{thebibliography}

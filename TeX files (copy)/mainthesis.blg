@@ -17,46 +17,48 @@ Repeated entry---line 2344 of file mainbib.bib
  : @article{Bartrons2018
  :                      ,
 I'm skipping whatever remains of this entry
+Warning--empty journal in Giesing2011
+Warning--there's a number but no volume in Giesing2011
 Warning--empty journal in Mommer2014
-You've used 26 entries,
+You've used 51 entries,
             1940 wiz_defined-function locations,
-            653 strings with 9600 characters,
-and the built_in function-call counts, 11414 in all, are:
-= -- 1104
-> -- 560
-< -- 8
-+ -- 194
-- -- 194
-* -- 1119
-:= -- 2001
-add.period$ -- 78
-call.type$ -- 26
-change.case$ -- 226
-chr.to.int$ -- 26
-cite$ -- 27
-duplicate$ -- 356
-empty$ -- 731
-format.name$ -- 230
-if$ -- 2140
+            814 strings with 14680 characters,
+and the built_in function-call counts, 22019 in all, are:
+= -- 2158
+> -- 996
+< -- 19
++ -- 340
+- -- 340
+* -- 2157
+:= -- 3823
+add.period$ -- 153
+call.type$ -- 51
+change.case$ -- 424
+chr.to.int$ -- 51
+cite$ -- 54
+duplicate$ -- 702
+empty$ -- 1462
+format.name$ -- 415
+if$ -- 4154
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 25
-newline$ -- 133
-num.names$ -- 78
-pop$ -- 176
+missing$ -- 49
+newline$ -- 258
+num.names$ -- 153
+pop$ -- 317
 preamble$ -- 1
-purify$ -- 227
+purify$ -- 425
 quote$ -- 0
-skip$ -- 268
+skip$ -- 527
 stack$ -- 0
-substring$ -- 849
-swap$ -- 49
+substring$ -- 1733
+swap$ -- 97
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 154
-warning$ -- 1
-while$ -- 94
+type$ -- 304
+warning$ -- 3
+while$ -- 190
 width$ -- 0
-write$ -- 338
+write$ -- 662
 (There were 3 error messages)
